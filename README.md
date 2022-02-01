@@ -1,4 +1,4 @@
-# Courses@SIB_course_nextflow_Nov_2021
+# Courses@PHIND_course_nextflow_Feb_2022
 
 ## Title
 
