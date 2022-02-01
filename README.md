@@ -1,3 +1,3 @@
-GitHub Pages of [biocorecrg/SIB_course_nextflow_Nov_2021](https://github.com/biocorecrg/SIB_course_nextflow_Nov_2021.git)
+GitHub Pages of [lucacozzuto/PHIND_course_nextflow_Feb_2022](https://github.com/lucacozzuto/PHIND_course_nextflow_Feb_2022.git)
 ===
-Sphinx html documentation of [36296422](https://github.com/biocorecrg/SIB_course_nextflow_Nov_2021/tree/36296422234919537a214dfd32709acf6f2281cd)
+Sphinx html documentation of [c0cedc86](https://github.com/lucacozzuto/PHIND_course_nextflow_Feb_2022/tree/c0cedc8692964da729c8c1cbb7b916a0c61aacdd)
